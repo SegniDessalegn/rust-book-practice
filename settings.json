@@ -1,0 +1,7 @@
+{
+    "settings": {
+    "rust-analyzer.linkedProjects": [
+            "./guessing-game"
+    ]
+}
+}
